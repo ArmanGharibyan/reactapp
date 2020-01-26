@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[3],{305:function(e,n,t){},306:function(e,n,t){e.exports={news:"MyNews_news__2rD_L"}},313:function(e,n,t){"use strict";t.r(n);var a=t(0),s=t.n(a),l=(t(305),t(306)),r=t.n(l),c=function(e){return s.a.createElement("div",{className:r.a.news},"Here will be news")};n.default=function(){return s.a.createElement("div",null,s.a.createElement(c,null),s.a.createElement(c,null))}}}]);
+//# sourceMappingURL=3.37ddf145.chunk.js.map
